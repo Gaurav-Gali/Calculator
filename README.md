@@ -1,4 +1,7 @@
 # Overview
+<img width="1440" alt="idle" src="https://github.com/Gaurav-Gali/Calculator/assets/128993184/d5c4361f-c275-4f6c-be48-485f703a1e80">
+<img width="1440" alt="functioning" src="https://github.com/Gaurav-Gali/Calculator/assets/128993184/debbec9b-5c3b-412b-b6b7-070ffc21b1be">
+<img width="1440" alt="copy" src="https://github.com/Gaurav-Gali/Calculator/assets/128993184/ac2bf710-4a43-4731-9f36-a42d836b3efb">
 
 # Getting Started with Create React App
 
